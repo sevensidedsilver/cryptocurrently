@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+/* nav */
+#navBar {
+  background: darkgrey;
+  height: 50px;
+  display: flex;
+  align-items: center;
+
+}
+
+#navBar h3 {
+  margin: 0 1% 0;
+}
